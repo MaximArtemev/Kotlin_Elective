@@ -1,9 +1,9 @@
 ANSWERS
 
-*** Answer 1:
+***Answer 1:
     man -f "name"
 
-*** Answer 2:
+***Answer 2:
     man 1 -> user commands
     man 2 -> System calls
 
